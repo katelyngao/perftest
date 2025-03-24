@@ -12,7 +12,7 @@
 
 4.将自己的测试结果按照如下的格式填写
 <!-- RANKING_START -->
-| 排名 | 运行时间 | 作者 | PR 链接 |
+| 排名 | IOPS值 | 作者 | PR 链接 |
 |------|----------|------|--------|
 | 1 | 2.34s | user1 | [PR #123](https://github.com/xingfeng2510/workshop/pull/123) |
 <!-- RANKING_END -->
