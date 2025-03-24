@@ -14,5 +14,5 @@
 <!-- RANKING_START -->
 | 排名 | IOPS值 | 作者 | PR 链接 |
 |------|----------|------|--------|
-| 1 | 2.34s | user1 | [PR #123](https://github.com/xingfeng2510/workshop/pull/123) |
+| 1 | 1000 | user1 | [PR #123](https://github.com/xingfeng2510/workshop/pull/123) |
 <!-- RANKING_END -->
