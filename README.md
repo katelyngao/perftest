@@ -13,8 +13,8 @@
 
 4.参与者最终IOPS排行榜（后台周期更新）
 <!-- RANKING_START -->
-| 排名 | IOPS值 | 作者 | 分支链接 |
+| 排名 | IOPS值 | 作者 | PR链接 |
 |------|----------|------|--------|
-| 1 | 1000 | user1 | [main](https://github.com/katelyngao/perftest/tree/main) |
+| 1 | 1000 | user1 | [PR #123](https://github.com/katelyngao/perftest/pulls) |
 <!-- RANKING_END -->
 
