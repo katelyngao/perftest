@@ -14,7 +14,7 @@
 
 4.将自己的测试结果按照如下的格式填写
 <!-- RANKING_START -->
-| 排名 | IOPS值 | 作者 | 代码分支链接 |
+| 排名 | IOPS值 | 作者 | 分支链接 |
 |------|----------|------|--------|
 | 1 | 1000 | user1 | [main](https://github.com/katelyngao/perftest/tree/main) |
 <!-- RANKING_END -->
